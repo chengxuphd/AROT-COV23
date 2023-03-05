@@ -11,18 +11,6 @@ The dataset has the following features:
 - Feature 3
 - ...
 
-## Citation
-------------------
-If you use this dataset in your research, please cite the following paper:
-
-    @inproceedings{
-      xu2023arotcov,
-      title={{AROT}-{COV}23: Analyzing Arabic {COVID}-19 Tweets with a Corpus-Based Approach},
-      author={Cheng Xu and Nan Yan},
-      booktitle={4th Workshop on African Natural Language Processing},
-      year={2023},
-      url={https://openreview.net/forum?id=aUZhVQBl2W}
-    }
 
 ## Download
 ------------------
@@ -36,6 +24,19 @@ Here are some examples of how the dataset can be used:
 - Example 2
 - Example 3
 - ...
+
+## Citation
+------------------
+If you use this dataset in your research, please cite the following paper:
+
+    @inproceedings{
+      xu2023arotcov,
+      title={{AROT}-{COV}23: Analyzing Arabic {COVID}-19 Tweets with a Corpus-Based Approach},
+      author={Cheng Xu and Nan Yan},
+      booktitle={4th Workshop on African Natural Language Processing},
+      year={2023},
+      url={https://openreview.net/forum?id=aUZhVQBl2W}
+    }
 
 ## Contact
 ------------------
