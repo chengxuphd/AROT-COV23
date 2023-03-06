@@ -1,6 +1,6 @@
 # AROT-COV23
 
-The AROT-COV23 (**AR**abic **O**riginal **T**weets on **COV**ID-19 as of 20**23**) dataset is a large-scale collection of original Arabic tweets related to COVID-19, spanning from January 2020 to January 2023, and the period for which we collected the data runs from January 1, 2020 to January 5, 2023. The dataset contains approximately 500,000 original tweets, providing a rich source of information on how Arabic-speaking Twitter users have discussed and shared information about the pandemic. For more details on this dataset, please see the paper in the citation section below (https://openreview.net/forum?id=aUZhVQBl2W).
+The AROT-COV23 (**AR**abic **O**riginal **T**weets on **COV**ID-19 as of 20**23**) dataset is a large-scale collection of original Arabic tweets related to COVID-19, spanning from January 2020 to January 2023, and the period for which we collected the data runs from January 1, 2020 to January 5, 2023. The dataset contains approximately 500,000 original tweets, providing a rich source of information on how Arabic-speaking Twitter users have discussed and shared information about the pandemic. For more details on this dataset, please see the [paper](https://openreview.net/forum?id=aUZhVQBl2W) in the citation section below.
 
 The tweets in the AROT-COV23 dataset were collected using a set of COVID-19-related keywords in Arabic. The tweets were then filtered to ensure that they were written in Arabic. We selected three keywords related to COVID-19 for the data request, the details are in the table below.
 
@@ -15,7 +15,7 @@ The tweets in the AROT-COV23 dataset were collected using a set of COVID-19-rela
 ------------------
 The dataset has the following features:
 
-> ⚠️ Please note that due to the restrictions imposed by Twitter's Developer Agreement and Policy on Content redistribution (https://developer.twitter.com/en/developer-terms/agreement-and-policy), the data that we make available does not comprise direct tweet text data and user privacy data.
+> ⚠️ Please note that due to the restrictions imposed by [Twitter's Developer Agreement and Policy on Content redistribution](https://developer.twitter.com/en/developer-terms/agreement-and-policy), the data that we make available does not comprise direct tweet text data and user privacy data.
 
 | Field | Type | Description |
 | --- | --- | --- |
