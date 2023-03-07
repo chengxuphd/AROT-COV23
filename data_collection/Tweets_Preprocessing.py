@@ -17,7 +17,6 @@ import gensim
 from nltk.corpus import stopwords
 import nltk
 
-
 import warnings
 warnings.filterwarnings("ignore")
 
