@@ -40,10 +40,16 @@ The dataset has the following features:
 
 ## Download
 ------------------
-You can download the dataset from https://github.com/chengxuphd/AROT-COV23/tree/main/data.
+You can download the dataset from [here](https://github.com/chengxuphd/AROT-COV23/tree/main/data).
 
 - AROT-COV23_publish.csv - Contains all features except those marked with ❌ above.
 - AROT-COV23_id_only.csv - Contains only tweets and their author's id.
+
+You can get the source code of our request for tweet data to the Twitter API from [here](https://github.com/chengxuphd/AROT-COV23/tree/main/data_collection).
+
+- Twitter_API_Request.py - A Python script for accessing the Twitter API to collect data.
+- Data_Processing.py - A Python script for converting tweets json data to csv format.
+- Tweets_Preprocessing.py - A Python script for pre-processing tweets data.
 
 ## Examples
 ------------------
