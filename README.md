@@ -15,7 +15,7 @@ The tweets in the AROT-COV23 dataset were collected using a set of COVID-19-rela
 ------------------
 The dataset has the following features:
 
-> ⚠️ Please note that due to the restrictions imposed by [Twitter's Developer Agreement and Policy on Content redistribution](https://developer.twitter.com/en/developer-terms/agreement-and-policy), the data that we make available does not comprise direct tweet text data and user privacy data.
+> ⚠️ Please note that due to the restrictions imposed by [Twitter's Developer Agreement and Policy on Content redistribution](https://developer.twitter.com/en/developer-terms/agreement-and-policy), the data that we make public available does not comprise direct tweet text data and user privacy data.
 
 | Field | Type | Description |
 | --- | --- | --- |
