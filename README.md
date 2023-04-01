@@ -51,7 +51,7 @@ You can get the source code of our request for tweet data to the Twitter API fro
 - Data_Processing.py - A Python script for converting tweets json data to csv format.
 - Tweets_Preprocessing.py - A Python script for pre-processing tweets data.
 
-**If you want to access the AROT-COV23 Complete Version, you need to fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdrC7VEebyH76IMXBLsruwig66SnfKOgkWGwzcYMrCokY9LSQ/viewform?usp=sf_link) to request.**
+**If you want to access the AROT-COV23 complete version, you need to fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdrC7VEebyH76IMXBLsruwig66SnfKOgkWGwzcYMrCokY9LSQ/viewform?usp=sf_link) to request.**
 
 ## Examples
 ------------------
