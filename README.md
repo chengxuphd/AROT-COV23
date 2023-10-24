@@ -82,15 +82,15 @@ You can get the source code of our request for tweet data to the Twitter API fro
 ## Citation
 ------------------
 If you use this dataset in your research, please cite the following paper:
-
-    @inproceedings{
-      xu2023arotcov,
-      title={{AROT}-{COV}23: A Dataset of 500K Original Arabic Tweets on {COVID}-19},
-      author={Cheng Xu and Nan Yan},
-      booktitle={4th Workshop on African Natural Language Processing},
-      year={2023},
-      url={https://openreview.net/forum?id=aUZhVQBl2W}
-    }
+```bibtex
+@inproceedings{xu2023arotcov,
+  title={{AROT}-{COV}23: A Dataset of 500K Original Arabic Tweets on {COVID}-19},
+  author={Cheng Xu and Nan Yan},
+  booktitle={4th Workshop on African Natural Language Processing},
+  year={2023},
+  url={https://openreview.net/forum?id=aUZhVQBl2W}
+}
+```
 
 ## Contact
 ------------------
